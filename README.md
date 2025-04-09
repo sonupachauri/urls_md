@@ -4,3 +4,7 @@
 - [Namaste Dev- Best for JS+React+System Design](https://namastedev.com/learn)
 - [Full Stack Mern Purchased course- Coders Gyan](https://learn.codersgyan.com/course/mern/start)
 - [Coursera- Courses from University profession](https://www.coursera.org/)
+
+
+
+#### SQL Queries GitHub Practice [Link](https://github.com/sonupachauri/sql/edit/main/README.md)
