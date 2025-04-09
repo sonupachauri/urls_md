@@ -12,8 +12,8 @@
 
 
 
-#### SQL Queries GitHub Practice Repository [Link] (https://github.com/sonupachauri/sql/edit/main/README.md)
-#### DSA GitHub Practice Repository [Link] (https://github.com/sonupachauri/dsa-a2z/edit/main/README.md)
+#### SQL Queries GitHub Practice Repository [Link](https://github.com/sonupachauri/sql/edit/main/README.md)
+#### DSA GitHub Practice Repository [Link](https://github.com/sonupachauri/dsa-a2z/edit/main/README.md)
 #### Python Projects & Practice Repositories
 #### WebDev Projects & Practice Repositories
 - [Chai Aur Code- Best for Web Dev](https://courses.chaicode.com/learn)
