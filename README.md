@@ -12,10 +12,9 @@
 
 
 
-#### SQL Queries GitHub Practice [Link](https://github.com/sonupachauri/sql/edit/main/README.md)
-#### DSA GitHub Practice [Link](https://github.com/sonupachauri/dsa-a2z/edit/main/README.md)
-#### WebDev Interview Questions [Link]()
-#### Python Practice
-#### WebDev Projects
-     - [Chai Aur Code- Best for Web Dev](https://courses.chaicode.com/learn)
-     - [Namaste Dev- Best for JS+React+System Design](https://namastedev.com/learn)
+#### SQL Queries GitHub Practice Repository [Link] (https://github.com/sonupachauri/sql/edit/main/README.md)
+#### DSA GitHub Practice Repository [Link] (https://github.com/sonupachauri/dsa-a2z/edit/main/README.md)
+#### Python Projects & Practice Repositories
+#### WebDev Projects & Practice Repositories
+- [Chai Aur Code- Best for Web Dev](https://courses.chaicode.com/learn)
+- [Namaste Dev- Best for JS+React+System Design](https://namastedev.com/learn)
