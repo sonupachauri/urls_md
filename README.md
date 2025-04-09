@@ -9,6 +9,9 @@
 - [Best Content site to prepare any interview](https://www.geeksforgeeks.org/)
 - [Mediam-  Content site to understand topic deeply](https://medium.com/)
 - [Dev- Content site to understand topic deeply](https://dev.to/)
+- [Stakc Overflow](https://stackoverflow.com/)
+- [Laravel Daily](https://laraveldaily.com/)
+- [TakeUForward- Best for DSA and system Design](https://takeuforward.org/)
 
 
 
